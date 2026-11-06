@@ -1,6 +1,6 @@
 # Battlesnake Python Starter Project
 
-## このブランチの実装（humilton-extend）
+## このブランチの実装（feature/humilton-extend）
 
 Solo向けに、餌を避けた外周優先の閉路を作り、左右の空き2マスへ迂回して閉路を拡張します。
 周回をシミュレーションし、安全に進める予測区間を後ろから調べて餌への離脱地点を選びます。
